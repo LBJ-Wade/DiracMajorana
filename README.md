@@ -32,6 +32,10 @@ The code is contained inside the Jupyter notebook
 
 - [DiracMajorana.ipynb](DiracMajorana.ipynb)
 
+There is also the Mathematica notebook with the anomaly cancellation analysis
+
+- [U1X.nb](U1X.nb)
+
 ## References
 
 If you use this code, please cite our paper [BibTeX](https://inspirehep.net/record/1755250/export/hx)
