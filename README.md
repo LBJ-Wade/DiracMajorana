@@ -5,7 +5,7 @@ Code repository for the paper
 by Julian Calle, Diego Restrepo, Óscar Zapata.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Dark matter](https://img.shields.io/badge/Matter-Dark-black.svg)](./)
+[![Dark matter](https://img.shields.io/badge/Dark-Matter-black.svg)](./)
 [![Dirac neutrinos](https://img.shields.io/badge/Dirac-Neutrinos-blue.svg)](./)
 [![arXiv](https://img.shields.io/badge/arXiv-1909.09574%20-green.svg)](https://arxiv.org/abs/1909.09574)
 
