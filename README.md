@@ -35,5 +35,6 @@ The code is contained inside the Jupyter notebook
 ## References
 
 If you use this code, please cite our paper [BibTeX](https://inspirehep.net/record/1755250/export/hx)
-__
+
+---
 Based in template for https://github.com/smsharma/mining-for-substructure-lens
