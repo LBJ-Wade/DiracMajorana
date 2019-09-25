@@ -15,14 +15,14 @@ by Julian Calle, Diego Restrepo, Óscar Zapata.
 ## Abstract
 
 The radiative type-I seesaw has been already implemented to explain the lightness of Majorana neutrinos with both Majorana and Dirac heavy fermions, and the lightness of Dirac    neutrinos with                   Dirac heavy fermions. In this work we present a minimal implementation of the radiative type-I seesaw with light Dirac neutrinos and heavy Majorana fermions. An inert doublet and a complex singlet scalar complete the dark sector which is protected by an Abelian fermiophobic gauge symmetry that also forbids tree level mass contributions for the full set of light neutrinos. A fermion vector-like extension of the model is also proposed where the light right-handed neutrinos can thermalize in the primordial plasma and the extra gauge boson can be directly produced at colliders.
-In particular, the  current upper bound on $\Delta N_{\text{eff}}$ reported by PLANCK points to large ratios $M_{Z'}/g'\gtrsim 40\ \text{TeV}$ which can be competitive with collider constraint for $g'$ sufficiently large in the ballpark of the Standard Model values, while future cosmic microwave background experiments may probe all the no minimal models presented here.
+In particular, the  current upper bound on Δ<i>N</i><sub>eff</sub> reported by PLANCK points to large ratios <it>M<sub>Z'</sub>/g'</it>≳ 40 TeV which can be competitive with collider constraint for <it>g'</it> sufficiently large in the ballpark of the Standard Model values, while future cosmic microwave background experiments may probe all the no minimal models presented here.
 
 ## Results
 
 <!-- In [figures/](figures/) we collect the figures shown in the paper. The folder also contains a few additional plots and
 animations: -->
 
-- [D_Neff.pdf](figures/D_Neff.pdf) Contribution to the number of extra relativistic degrees of freedom ($\Delta N_{\text{eff}}$) in function of $M_{Z^{\prime}}/g^{\prime}$.
+- [D_Neff.pdf](figures/D_Neff.pdf) Contribution to the number of extra relativistic degrees of freedom (Δ<i>N</i><sub>eff</sub>) in function of <it>M<sub>Z'</sub>/g'</it>.
 
 ## Code
 
